@@ -4,7 +4,7 @@ description: Research and construct vivid historical case studies to illustrate 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4164
+  version: 1.0.4165
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - historical-case-study-method
